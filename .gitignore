@@ -1,0 +1,9 @@
+.venv
+restaurant_reviews_complete/
+restaurant_reviews/
+restaurants.csv
+debug/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
