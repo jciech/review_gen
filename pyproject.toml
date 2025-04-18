@@ -1,13 +1,18 @@
 [project]
-name = ""
+name = "review_gen"
 version = "0.1.0"
-description = "A fast scraping project"
-authors = [{ name = "Your Name", email = "you@example.com" }]
+description = "transformers fun"
+authors = [{ name = "Jan", email = "janciechowski@gmail.com" }]
 dependencies = [
     "httpx",
     "beautifulsoup4",
     "selectolax",
     "lxml",
+    "selenium",
+    "tokenizers",
+    "torch",
+    "tqdm",
+    "black",
 ]
 requires-python = ">=3.8"
 
